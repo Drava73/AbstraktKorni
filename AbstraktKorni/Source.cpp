@@ -37,7 +37,7 @@ public:
 
 int main()
 {
-    Yravnni obj(2, -12, 6);
+    Yravnni obj(1, -2, 3);
     for (auto a : obj.rb())
        cout << a << std::endl;
 
